@@ -1,2 +1,2 @@
-GPT volume system specimens.
+GUID Partition Table (GPT) volume system specimens.
 
